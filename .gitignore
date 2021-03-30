@@ -1,0 +1,7 @@
+HAM10000*
+data/
+pictures/
+pictures3/
+.ipynb_checkpoints/
+Notes.odt
+model_l_*.pth
